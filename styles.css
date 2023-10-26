@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+}
+main{
+    margin: 1em;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px 20px;
+    background-color: aliceblue;
+    /* background: radial-gradient(
+        circle at 50% 0%, orange 36%, #fff 36%); */
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
+    }
+.hp{
+    width: 70px;
+    font-weight: 600;
+    padding: 8px 0;
+    border-radius: 30px;
+    margin-left: auto;
+    background-color: #fff;
+}
+main img{
+    margin: 1em;
+    width:160px;
+}
+.pokemon-name{
+    margin: 5px 0 5px 0;
+    font-size: 17px;
+}
+.types{
+    display: flex;
+    justify-content: space-around;  
+}
+.types span{
+    color: #fff;
+    padding: 0.4em;
+    border-radius: 10px;
+}
+.stats{
+    margin: 1em 0 0 0;
+    display: flex;
+    line-height: 17px;
+    justify-content: space-between;
+    gap: 10px;
+}
+.types span{
+    font-weight: 600;
+    font-size: 12px;
+    margin: 5px;
+}
+.stats p{color: #404068;}
+.btn{
+    background-color: rgb(0, 0, 0);
+    border-style:none;
+    color: #fff;
+    margin: 40px auto 0;
+    padding: 10px 40px;
+    border-radius: 6px;
+    min-width:80px;
+}
+.rotated-image{
+    -webkit-transform: rotate(360deg);
+  }
