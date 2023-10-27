@@ -7,7 +7,7 @@ This is My second Project using API - This Project Generate new Pokemon Card Wit
 </div>
 
 <div align='center'>
-<img src="./design/desktop-design.jpg">
+<img src=".Screenshots/Screenshot 2023-10-27 at 19-23-35 Document.png">
 </div>
 
 I Used vanilla CSS and Javascript
