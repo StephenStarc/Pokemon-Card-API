@@ -2,6 +2,14 @@
 
 This is My second Project using API - This Project Generate new Pokemon Card With pokemon Image and Stats
 
+<div align='center'>
+<img src="./design/desktop-design.jpg">
+</div>
+
+<div align='center'>
+<img src="./design/desktop-design.jpg">
+</div>
+
 I Used vanilla CSS and Javascript
 
 Taught By Coding Artist - Pokemon Card Video
