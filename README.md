@@ -7,7 +7,7 @@ This is My second Project using API - This Project Generate new Pokemon Card Wit
 </div>
 <br>
 <div align='center'>
-<img src="results-summary-component-main/Screenshot 2.png">
+<img src="Screenshots/Screenshot 2023-10-27 at 19-23-35 Document.png">
 </div>
 
 ## **Built With**
